@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マリオネットダンサー / ひらぎ feat.初音ミク",
+  "base_artist": "ひらぎ",
+  "createdAt": "2026-01-10T04:11:09.367650Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マリオネットダンサー",
+      "artist": "ひらぎ",
+      "has_synced": false,
+      "path": "select/pl_01_マリオネットダンサー_ひらぎ.txt"
+    }
+  ]
+}
